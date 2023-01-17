@@ -1,6 +1,20 @@
 <h1 align="center"> Update Checker </h1>
 <p align="center">Check if your application is updated based on github releases!</p>
 
+## 🛠️ Get started
+
+### Gradle
+```gradle
+repositories {
+  maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+  implementation 'com.github.ClarkQuente:Update-Checker:TAG'
+}
+```
+The tag can be found [here](https://jitpack.io/#ClarkQuente/Update-Checker) (tag = version)
+
 ## 💻 How Use:
 
 <h3>UpdateChecker constructor:</h3>
