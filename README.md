@@ -31,3 +31,7 @@ The tag can be found [here](https://jitpack.io/#ClarkQuente/Update-Checker) (tag
 ## 🚀 Used technologies
 
 - [GSON](https://github.com/google/gson)
+
+## ⚠️ ATTENTION
+
+Your release must have only a asset (file) to work. Because this lib get the first asset that find.
